@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/scenery2.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "background with plants";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -34,7 +34,7 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
+  "Software Development",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "This is my portfolio website.";
 
 const About = () => {
   return (
